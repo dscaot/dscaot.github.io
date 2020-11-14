@@ -26,6 +26,8 @@ Official homepage of DSC AOT made with Gatsby & :coffee:
 
 #### Author - @[Neilblaze](https://github.com/neilblaze)
 
+<a href="http://www.copyscape.com/"><img src="https://banners.copyscape.com/img/copyscape-banner-black-160x56.png" width="160" height="56" border="0" alt="Protected by Copyscape" title="Protected by Copyscape - Do not copy content from this page." /></a>
+
 
 <p align="center">
   <img src="https://camo.githubusercontent.com/e8411bb8d036e541b7299ea0a5c47db49e28c4b2/68747470733a2f2f7765622e617263686976652e6f72672f7765622f32303039303732383231303435362f687474703a2f2f64652e67656f6369746965732e636f6d2f68656c6c6f6d616e34362f636f6e736261722e676966" />
